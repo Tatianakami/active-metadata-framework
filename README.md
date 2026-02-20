@@ -1,6 +1,6 @@
 # Governance & Metadata Engineering Lab 📊
 
-![Banner](./dados/20240314_225158.jpg)
+![Data Engineering Banner](assets/20240314_225158.jpg)
 
 ## 📖 Sobre o Projeto
 Projeto desenvolvido como parte do laboratório de Ciência da Computação para implementar estratégias de **Governança de Dados**. O foco é a gestão eficiente de metadados para garantir a integridade e a autonomia no uso de ativos de dados estruturados e não estruturados.
